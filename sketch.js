@@ -1,6 +1,6 @@
 let sheet;
 function preload(){
-  sheet = loadImage('sheet.png');
+  sheet = loadImage('sheets/sheet.png');
 }
 
 
